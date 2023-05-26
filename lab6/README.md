@@ -112,8 +112,17 @@ Amedia
 ## Судебные дела
 
 Данная компания часто выступает в судах. Обычно в качестве истцов:
-image.png
+![image](https://github.com/Marshallmeow/protectsystem/assets/89981827/3e152e21-e322-4b41-8cfe-eaadf81a132d)
+
+![image](https://github.com/Marshallmeow/protectsystem/assets/89981827/38ad1128-259c-46dd-8f37-b3d8ae5a4226)
+
 
 ## Акции компании
 
 Можно найти динамику стоимости акций компании за последние годы.
+
+![image](https://github.com/Marshallmeow/protectsystem/assets/89981827/2ce237a2-d661-4380-ad2c-f23a2a67e2fc)
+
+## Вывод
+
+Таким образом, с помощью процесса OSINT была получена информация о компании ПАО РОСТЕЛЕКОМ.
