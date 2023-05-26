@@ -57,28 +57,20 @@ docker-compose up
 
 Авторизуемся от имени пользователя elastic:
 
-![image](https://github.com/Marshallmeow/protectsystem/assets/89981827/f19a5097-50ba-499a-9428-8179c72f8bd7)
+[![image](https://github.com/Marshallmeow/protectsystem/blob/main/lab3/screenshots/1.jpg)]
 
 Проверяем работоспособность с помощью GET-запроса `_cat/indices`:
 
-![image](https://github.com/Marshallmeow/protectsystem/assets/89981827/2ce0ee0d-82d2-4a5f-8b64-d8fbabddb371)
+[![image](https://github.com/Marshallmeow/protectsystem/blob/main/lab3/screenshots/2.jpg)]
 
 Filebeat и Packetbeat успешно запущены.
 
 
 #### 6.2 Проверяем работоспособность Packetbeat
-=======
-#### 6.2 Проверяем работоспособность Filebeat
-
-Создание Data view для лог-файлов:
-
-![image](https://github.com/Marshallmeow/protectsystem/assets/89981827/449ab749-3553-4a2b-adeb-00e8746c7f25)
-
-#### 6.3 Проверяем работоспособность Packetbeat
 
 Создание Data view для трафика:
 
-![image](https://github.com/Marshallmeow/protectsystem/assets/89981827/9d1d9253-8b60-4c33-be8c-ca3f4b7589f8)
+[![image](https://github.com/Marshallmeow/protectsystem/blob/main/lab3/screenshots/4.jpg)]
 
 ## Оценка результата
 
