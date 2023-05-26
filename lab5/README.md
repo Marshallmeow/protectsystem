@@ -11,7 +11,7 @@
 1. Для построения mind-карты был использован сервис: mindmup.com; ГОСТ Р 50922-2006 "ОСНОВНЫЕ ТЕРМИНЫ И ОПРЕДЕЛЕНИЯ". Ссылка на документ: https://docs.cntd.ru/document/1200058320
 2. Результат:
 
-https://github.com/Marshallmeow/protectsystem/blob/main/lab5/1.png
+![image](https://github.com/Marshallmeow/protectsystem/assets/89981827/6c3bb98a-f37f-4f04-bf2d-eab4c8c5d8fc)
 
 ## Оценка результата
 Был изучен ГОСТ Р 50922-2006 "ОСНОВНЫЕ ТЕРМИНЫ И ОПРЕДЕЛЕНИЯ" и построена по нему mind-карта при помощи сервиса mindmup.com
