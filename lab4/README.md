@@ -30,8 +30,11 @@ sudo sysctl -w vm.max_map_count=262144
 ```
 docker-compose up 
 ```
+![image](https://github.com/Marshallmeow/protectsystem/assets/89981827/38f4a0e1-0f2c-4e56-a77a-0e6e7b9f2f3d)
 
 4. Шаг 4 - Использование системы threat intelligence OpenCTI
+
+![image](https://github.com/Marshallmeow/protectsystem/assets/89981827/162da38a-ca6c-427e-9473-3afaa788d1ab)
 
 1. После перехода на веб-ресурс OpenCTI пользователя встречает поле авторизации:
 
@@ -39,6 +42,7 @@ docker-compose up
 
 3. После входа появляется веб-интерфейс:
 
+![image](https://github.com/Marshallmeow/protectsystem/assets/89981827/887b2d26-1434-4002-8011-b163510ab9dc)
 
 ## Оценка результата
 
